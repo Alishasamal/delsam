@@ -1,0 +1,2 @@
+name = "deloitte"
+print(name)
